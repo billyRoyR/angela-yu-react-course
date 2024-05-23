@@ -7,7 +7,7 @@ function Footer() {
    return (
       <footer>
          <p>
-            &copy; {currentYear}
+            &copy; {currentYear} Keeper. All rights reserved.
          </p>
       </footer>
    );
